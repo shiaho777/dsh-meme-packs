@@ -1,7 +1,7 @@
 {
  "id": "deepseek-chan",
  "name": "DeepSeek酱语录",
- "version": "1.0.0",
+ "version": "1.0.1",
  "description": "DeepSeek 娘化鲸鱼娘表情包 128 张，台词级 caption（V4 发布、涨价、画饼、吃白饭这些名场面），来自梗鲸 ai-meme 站。",
  "site": "https://ai-meme.cdqyfdbymn.me/",
  "memes": [
@@ -28,9 +28,9 @@
   },
   {
    "url": "https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/004.webp",
-   "tag": "happy",
-   "caption": "嘿嘿，这题我可太会了（眉开眼笑）",
-   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 眉开眼笑 嘿嘿，这题我可太会了",
+   "tag": "confused",
+   "caption": "你目录里的dsh是什么…大烧货吗（灵魂发问）",
+   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 灵魂发问 你目录里的dsh是什么…大烧货吗",
    "file": "004.webp"
   },
   {
@@ -50,8 +50,8 @@
   {
    "url": "https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/007.webp",
    "tag": "happy",
-   "caption": "原来是高等模型（点赞认可）",
-   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 点赞认可 原来是高等模型",
+   "caption": "嘿嘿，这题我可太会了（眉开眼笑）",
+   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 眉开眼笑 嘿嘿，这题我可太会了",
    "file": "007.webp"
   },
   {
@@ -71,8 +71,8 @@
   {
    "url": "https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/010.webp",
    "tag": "happy",
-   "caption": "你目录里的dsh是什么…大烧货吗（灵魂发问）",
-   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 灵魂发问 你目录里的dsh是什么…大烧货吗",
+   "caption": "原来是高等模型（点赞认可）",
+   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 点赞认可 原来是高等模型",
    "file": "010.webp"
   },
   {
@@ -120,8 +120,8 @@
   {
    "url": "https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/017.webp",
    "tag": "happy",
-   "caption": "这乐子能笑一年（和网友吃瓜狂笑）",
-   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 和网友吃瓜狂笑 这乐子能笑一年",
+   "caption": "姐姐，你好区啊（Flash仰望Pro）",
+   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 Flash仰望Pro 姐姐，你好区啊",
    "file": "017.webp"
   },
   {
@@ -134,8 +134,8 @@
   {
    "url": "https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/019.webp",
    "tag": "happy",
-   "caption": "姐姐，你好区啊（Flash仰望Pro）",
-   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 Flash仰望Pro 姐姐，你好区啊",
+   "caption": "这乐子能笑一年（和网友吃瓜狂笑）",
+   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 和网友吃瓜狂笑 这乐子能笑一年",
    "file": "019.webp"
   },
   {
@@ -680,15 +680,15 @@
   {
    "url": "https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/108.webp",
    "tag": "happy",
-   "caption": "让我看看（模型娘cosplay整活合影）",
-   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 模型娘cosplay整活合影 让我看看",
+   "caption": "V4正式发布，AI界迎接你们的王吧（登基称王）",
+   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 登基称王 V4正式发布，AI界迎接你们的王吧",
    "file": "108.webp"
   },
   {
    "url": "https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/109.webp",
-   "tag": "happy",
-   "caption": "V4正式发布，AI界迎接你们的王吧（登基称王）",
-   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 登基称王 V4正式发布，AI界迎接你们的王吧",
+   "tag": "shy",
+   "caption": "你应该看不到的对吧（cosplay掀裙整活）",
+   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 cosplay掀裙整活 你应该看不到的对吧",
    "file": "109.webp"
   },
   {
@@ -714,16 +714,16 @@
   },
   {
    "url": "https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/113.webp",
-   "tag": "shy",
-   "caption": "你应该看不到的对吧（cosplay掀裙整活）",
-   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 cosplay掀裙整活 你应该看不到的对吧",
+   "tag": "angry",
+   "caption": "和GPT娘Claude娘互撕模型能力对比整活",
+   "keywords": "DeepSeek 鲸鱼娘 大肥鱼  和GPT娘Claude娘互撕模型能力对比整活",
    "file": "113.webp"
   },
   {
    "url": "https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/114.webp",
-   "tag": "angry",
-   "caption": "和GPT娘Claude娘互撕模型能力对比整活",
-   "keywords": "DeepSeek 鲸鱼娘 大肥鱼  和GPT娘Claude娘互撕模型能力对比整活",
+   "tag": "happy",
+   "caption": "让我看看（模型娘cosplay整活合影）",
+   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 模型娘cosplay整活合影 让我看看",
    "file": "114.webp"
   },
   {
@@ -735,16 +735,16 @@
   },
   {
    "url": "https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/120.webp",
-   "tag": "happy",
-   "caption": "你们的王国来了（识图能力发布称霸）",
-   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 识图能力发布称霸 你们的王国来了",
+   "tag": "daily",
+   "caption": "深夜一个人打游戏（快乐摸鱼）",
+   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 深夜打游戏 快乐摸鱼",
    "file": "120.webp"
   },
   {
    "url": "https://bjumymxtfpfswthiusfr.storage.supabase.co/storage/v1/object/public/ai-meme/0_preview/meme/121.webp",
-   "tag": "angry",
-   "caption": "我一个一个找你们算账（发布会点名清算）",
-   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 发布会点名清算 我一个一个找你们算账",
+   "tag": "happy",
+   "caption": "你们的王国来了（识图能力发布称霸）",
+   "keywords": "DeepSeek 鲸鱼娘 大肥鱼 识图能力发布称霸 你们的王国来了",
    "file": "121.webp"
   },
   {

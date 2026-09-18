@@ -130,7 +130,7 @@
     {
       "id": "deepseek-chan",
       "name": "DeepSeek酱语录",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "DeepSeek 娘化鲸鱼娘表情包 128 张，台词级 caption（V4 发布、涨价、画饼、吃白饭这些名场面），来自梗鲸 ai-meme 站。",
       "maintainer": "the-beating-light-of-the-nail",
       "license": "noncommercial-fan",
