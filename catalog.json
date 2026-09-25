@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T07:39:40Z",
+  "updatedAt": "2026-09-25T13:41:00Z",
   "packs": [
     {
       "id": "official-001",
@@ -84,14 +84,14 @@
     {
       "id": "dafeiyu-learned",
       "name": "大肥鱼·学图",
-      "version": "1.0.0",
-      "description": "大肥鱼图库「自动学图」新增的 25 张表情，原先并入 dafeiyu-001 v1.2.0，现为独立图库。图片由 hZsFN 贡献。",
+      "version": "1.1.1",
+      "description": "大肥鱼图库「自动学图」新增的 31 张表情（v1.1.0 在 25 张基础上新增 6 张，v1.1.1 修正 1 条与画面不符的 caption），原先并入 dafeiyu-001 v1.2.0，现为独立图库。图片由 hZsFN 贡献。",
       "maintainer": "hZsFN",
       "license": "personal",
-      "count": 25,
-      "bytes": 1181739,
-      "sha256": "05104a3e8711076725bf5435a04a071f28f75f9d3bd4192367ef8523440f23d4",
-      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-learned-v1.0.0/dafeiyu-learned-v1.0.0.zip",
+      "count": 31,
+      "bytes": 3516925,
+      "sha256": "62ce5dbd8175e9947e2af73c92098f851730ccd82ca1e3018362249c62fe9eb8",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-learned-v1.1.1/dafeiyu-learned-v1.1.1.zip",
       "homepage": "https://github.com/yyh-001/dsh-meme",
       "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned.jpg",
       "keywords": [
@@ -124,7 +124,13 @@
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned/22.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned/23.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned/24.jpg",
-        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned/25.jpg"
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned/25.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned/26.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned/27.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned/28.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned/29.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned/30.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned/31.jpg"
       ]
     },
     {
@@ -164,6 +170,59 @@
         "鲸鱼娘",
         "台词",
         "梗图"
+      ]
+    },
+    {
+      "id": "whale-girl-emoji",
+      "name": "鲸鱼娘表情包",
+      "version": "1.0.0",
+      "description": "鲸鱼娘同人表情 91 张：女仆 44 张（来自 dsh-maid-emoji 内置包，160×160）+ 大肥鱼 47 张（来自 EDMOK/blue-fish-archive 预览图，480×480），仅限非商业使用。",
+      "maintainer": "Luocheng114",
+      "license": "noncommercial-fan",
+      "count": 91,
+      "bytes": 3565961,
+      "sha256": "1b9d9986516adc5b4c2a40be290d1258fa88dcab428df65c8227b6442346fc8d",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/whale-girl-emoji-v1.0.0/whale-girl-emoji-v1.0.0.zip",
+      "homepage": "https://fisharchive.pages.dev/",
+      "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji.jpg",
+      "keywords": [
+        "鲸鱼娘",
+        "女仆",
+        "大肥鱼",
+        "DeepSeek",
+        "同人"
+      ],
+      "previews": [
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/01.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/02.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/03.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/04.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/05.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/06.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/07.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/08.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/09.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/10.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/11.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/12.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/13.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/14.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/15.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/16.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/17.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/18.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/19.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/20.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/21.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/22.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/23.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/24.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/25.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/26.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/27.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/28.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/29.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-emoji/30.jpg"
       ]
     }
   ]
